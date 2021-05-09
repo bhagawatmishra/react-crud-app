@@ -3,7 +3,7 @@
 # React CRUD App
 
 > A CRUD application which edits user records in React.  
-
+> For more detalils follow React Assignment_TruckX.pdf
 ## Build Setup
 
 ```bash
